@@ -1,0 +1,6 @@
+main: fr.swoking.noRain.Main
+name: NoRain
+version: 0.0.1
+author: Swoking
+description: 
+commands:
